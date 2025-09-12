@@ -1,1 +1,10 @@
+demo2.testfire.net
+evil.testfire.net
+demo.testfire.net
+ftp.testfire.net
+demo-analytics.testfire.net
+localhost.testfire.net
+www.testfire.net
+altoro.testfire.net
+[INF] Found 8 subdomains for testfire.net in 16 seconds 186 milliseconds
 
