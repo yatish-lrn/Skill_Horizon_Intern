@@ -1,1 +1,5 @@
+testfire.net
+demo.testfire.net
+altoro.testfire.net
+www.testfire.net
 
